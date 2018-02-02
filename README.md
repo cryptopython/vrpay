@@ -1,10 +1,9 @@
-# bgpcoin
-BGPCoin is a proof-of-work/proof-of-stake currency that can be used by Internet Service Providers for real-time settlement of peering expenses such as crossconnects, dark fiber, route advertisement, and bandwidth costs.
+# VRPay
+VRPay is a proof-of-work/proof-of-stake currency designed to allow participants in virtual reality space to pay each other for goods and services in real time.  It has a short block time of about 5 minutes to allow for quick transactions.
 
-BGPCoin can be mined using a CPU miner.  It's recommended to run a BGPCoin node on Ubuntu 17.10, and then use the getwork method of mining and collecting block
-miner rewards.
+VRPay can be mined with a CPU
 
-The rewards are 256 BGPCoins per block. 
+The rewards start out at 60000 VRP per block and decline gradually to block 30000 where it switches to proof-of-stake. 
 
 The premined coins in the genesis block will be used to fund development in the
 form of code bounties.
@@ -32,7 +31,7 @@ make RELEASE=1
 sudo make install
 ``` 
 
-4.  create a ~/.bgpcoin/bgpcoin.conf file with the following: 
+4.  create a ~/.vrpay/vrpay.conf file with the following: 
 ```
 rpcuser=user
 rpcpassword=x
@@ -45,10 +44,10 @@ gen=0
 
 5. Run it
 ```
-nohup /usr/sbin/bgpcoind &
+nohup /usr/sbin/vrpayd &
 ```
 
-Save the ```~/.bgpcoin/wallet.dat``` file and you can load it with your QT wallet
+Save the ```~/.vrpay/wallet.dat``` file as a backup
 
 6. Mine your coins using the official mining pool (recommended)
 
