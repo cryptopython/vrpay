@@ -52,7 +52,7 @@ Save the ```~/.vrpay/wallet.dat``` file as a backup
 6. Mine your coins using the official mining pool (recommended)
 
 ```
-minerd -o stratum+tcp://pool.bgpcoin.com:3008/ -u `bgpcoind getaccountaddress 0` -p x
+minerd -o stratum+tcp://pool.vrpay.com:3008/ -u `vrpayd getaccountaddress 0` -p x
 ```
 
 -or-
@@ -88,7 +88,7 @@ brew link boost@1.57 --force
 2. Build the daemon
 
 ```
-cd bgpcoin/src/leveldb
+cd vrpay/src/leveldb
 make clean && make -j && make -j memenv_test
 cd ..
 make -f makefile.osx -j RELEASE=1
@@ -99,7 +99,7 @@ make -f makefile.osx -j RELEASE=1
 sudo make install
 ```
 
-4.  create a ~/.bgpcoin/bgpcoin.conf file with the following: 
+4.  create a ~/.vrpay/vrpay.conf file with the following: 
 ```
 rpcuser=user
 rpcpassword=x
@@ -112,15 +112,15 @@ gen=0
 
 5. Run it
 ```
-nohup /usr/sbin/bgpcoind &
+nohup /usr/sbin/vrpayd &
 ```
 
-Save the ```~/.bgpcoin/wallet.dat``` file and you can load it with your QT wallet
+Save the ```~/.vrpay/wallet.dat``` file and you can load it with your QT wallet
 
 6. Mine your coins using the official mining pool (recommended)
 
 ```
-minerd -o stratum+tcp://pool.bgpcoin.com:3008/ -u `bgpcoind getaccountaddress 0` -p x
+minerd -o stratum+tcp://pool.vrpay.com:3008/ -u `vrpayd getaccountaddress 0` -p x
 ```
 
 -or-
@@ -142,11 +142,11 @@ Enjoy it Mac style
 
 # Current Bounties
 
-1. 8 BGP per blog post evangelizing BGPCoin
-2. 1024 BGP (4 block rewards) for a cleaner Makefile that integrates with systemd
-3. 10240 BGP (40 block rewards) for a nicely designed site
-4. 10240 BGP (40 block rewards) for command line scripts that allow ISPs to pay each other using the API
-5. 20480 BGP (80 block rewards) for an ISP who agrees to take BGPCoin
-6. 20480 BGP (80 block rewards) for a Mac OS X wallet
-7. 20480 BGP (80 block rewards) for an Android wallet
-8. 102400 BGP (400 block rewards) for listing on an exchange, per exchange
+1. 8 VRP per blog post evangelizing VRPay
+2. 1024 VRP (4 block rewards) for a cleaner Makefile that integrates with systemd
+3. 10240 VRP (40 block rewards) for a nicely designed site
+4. 10240 VRP (40 block rewards) for command line scripts that allow ISPs to pay each other using the API
+5. 20480 VRP (80 block rewards) for an ISP who agrees to take VRPay
+6. 20480 VRP (80 block rewards) for a Mac OS X wallet
+7. 20480 VRP (80 block rewards) for an Android wallet
+8. 102400 VRP (400 block rewards) for listing on an exchange, per exchange

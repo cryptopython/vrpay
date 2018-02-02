@@ -145,10 +145,10 @@ OBJS= \
     obj/zerocoin/ZeroTest.o
 
 
-all: bgpcoind
+all: vrpayd
 
 install: 
-	cp bgpcoind /usr/sbin && strip /usr/sbin/bgpcoind
+	cp vrpayd /usr/sbin && strip /usr/sbin/vrpayd
 
 setup:
 	sudo apt-get install build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev git libssl1.0.0-dbg libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libminiupnpc-dev libevent-dev libcrypto++-dev libgmp3-dev libminiupnpc-dev
@@ -192,11 +192,11 @@ obj/zerocoin/%.o: zerocoin/%.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-bgpcoind: $(OBJS:obj/%=obj/%)
+vrpayd: $(OBJS:obj/%=obj/%)
 	$(LINK) $(xCXXFLAGS) -o $@ $^ $(xLDFLAGS) $(LIBS)
 
 clean:
-	-rm -f bgpcoind
+	-rm -f vrpayd
 	-rm -f obj/*.o
 	-rm -f obj/zerocoin/*.o
 	-rm -f obj/*.P

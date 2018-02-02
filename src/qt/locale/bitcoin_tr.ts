@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BGPCoin</source>
-        <translation>BGPCoin Hakkında</translation>
+        <source>About VRPay</source>
+        <translation>VRPay Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BGPCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BGPCoin&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;VRPay&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;VRPay&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BGPCoin developers</source>
+Copyright © 2014 The VRPay developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BGPCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için BGPCoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your VRPay addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için VRPay adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BGPCoin address</source>
-        <translation>Bir BGPCoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a VRPay address</source>
+        <translation>Bir VRPay adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BGPCoin address</source>
-        <translation>Mesajın, belirli bir BGPCoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified VRPay address</source>
+        <translation>Mesajın, belirli bir VRPay adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>BGPCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BGPCoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>VRPay will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>VRPay, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BGPCoin</source>
-        <translation>BGPCoin hakkındaki bilgiyi göster</translation>
+        <source>Show information about VRPay</source>
+        <translation>VRPay hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BGPCoin address</source>
-        <translation>Bir BGPCoin adresine coin gönder</translation>
+        <source>Send coins to a VRPay address</source>
+        <translation>Bir VRPay adresine coin gönder</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BGPCoin</source>
-        <translation>BGPCoin yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for VRPay</source>
+        <translation>VRPay yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>BGPCoin</source>
-        <translation>BGPCoin</translation>
+        <source>VRPay</source>
+        <translation>VRPay</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BGPCoin</source>
-        <translation>BGPCoin &amp;Hakkında</translation>
+        <source>&amp;About VRPay</source>
+        <translation>VRPay &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BGPCoin client</source>
-        <translation>BGPCoin istemcisi</translation>
+        <source>VRPay client</source>
+        <translation>VRPay istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BGPCoin network</source>
-        <translation><numerusform>BGPCoin ağına %n etkin bağlantı</numerusform><numerusform>BGPCoin ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to VRPay network</source>
+        <translation><numerusform>VRPay ağına %n etkin bağlantı</numerusform><numerusform>VRPay ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BGPCoin address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir BGPCoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid VRPay address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir VRPay adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BGPCoin can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. BGPCoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. VRPay can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. VRPay artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BGPCoin address.</source>
-        <translation>Girilen %1 adresi, geçerli bir BGPCoin adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid VRPay address.</source>
+        <translation>Girilen %1 adresi, geçerli bir VRPay adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BGPCoin-Qt</source>
-        <translation>BGPCoin-Qt</translation>
+        <source>VRPay-Qt</source>
+        <translation>VRPay-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BGPCoin after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra BGPCoin&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start VRPay after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra VRPay&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BGPCoin on system login</source>
-        <translation>Sisteme girişte BGPCoin&apos;i &amp;başlat</translation>
+        <source>&amp;Start VRPay on system login</source>
+        <translation>Sisteme girişte VRPay&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BGPCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide BGPCoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the VRPay client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide VRPay istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BGPCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>BGPCoin ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
+        <source>Connect to the VRPay network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>VRPay ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BGPCoin.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, BGPCoin yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting VRPay.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, VRPay yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BGPCoin addresses in the transaction list or not.</source>
-        <translation>BGPCoin adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
+        <source>Whether to show VRPay addresses in the transaction list or not.</source>
+        <translation>VRPay adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BGPCoin.</source>
-        <translation>Bu ayar, BGPCoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting VRPay.</source>
+        <translation>Bu ayar, VRPay&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BGPCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak BGPCoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the VRPay network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak VRPay ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BGPCoin-Qt help message to get a list with possible BGPCoin command-line options.</source>
-        <translation>Muhtemel BGPCoin komut satırı seçeneklerinin bir listesini getirmek için BGPCoin-Qt yardım mesajını göster</translation>
+        <source>Show the VRPay-Qt help message to get a list with possible VRPay command-line options.</source>
+        <translation>Muhtemel VRPay komut satırı seçeneklerinin bir listesini getirmek için VRPay-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BGPCoin - Debug window</source>
-        <translation>BGPCoin - Hata ayıklama penceresi</translation>
+        <source>VRPay - Debug window</source>
+        <translation>VRPay - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BGPCoin Core</source>
-        <translation>BGPCoin Core</translation>
+        <source>VRPay Core</source>
+        <translation>VRPay Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BGPCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>BGPCoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the VRPay debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>VRPay hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BGPCoin RPC console.</source>
-        <translation>BGPCoin RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the VRPay RPC console.</source>
+        <translation>VRPay RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BGPCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir BGPCoin adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a VRPay address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir VRPay adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BGPCoin address</source>
-        <translation>UYARI: Geçersiz BGPCoin adresi</translation>
+        <source>WARNING: Invalid VRPay address</source>
+        <translation>UYARI: Geçersiz VRPay adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BGPCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir BGPCoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a VRPay address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir VRPay adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BGPCoin address</source>
-        <translation>Bu BGPCoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this VRPay address</source>
+        <translation>Bu VRPay adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BGPCoin address</source>
-        <translation>Mesajın, belirtilen BGPCoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified VRPay address</source>
+        <translation>Mesajın, belirtilen VRPay adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BGPCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir BGPCoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a VRPay address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir VRPay adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BGPCoin signature</source>
-        <translation>BGPCoin imzası gir</translation>
+        <source>Enter VRPay signature</source>
+        <translation>VRPay imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BGPCoin version</source>
-        <translation>BGPCoin versiyonu</translation>
+        <source>VRPay version</source>
+        <translation>VRPay versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,8 +2623,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bgpcoind</source>
-        <translation>-sunucu veya bgpcoind&apos;ye komut gönder</translation>
+        <source>Send command to -server or vrpayd</source>
+        <translation>-sunucu veya vrpayd&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bgpcoin.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: bgpcoin.conf)</translation>
+        <source>Specify configuration file (default: vrpay.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: vrpay.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bgpcoind.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: bgpcoin.pid)</translation>
+        <source>Specify pid file (default: vrpayd.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: vrpay.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BGPCoin will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, BGPCoin düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong VRPay will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, VRPay düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bgpcoinrpc
+rpcuser=vrpayrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BGPCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;VRPay Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz:
  %s
 Aşağıdaki rastgele parolayı kullanmanız tavsiye edilir:
-rpcuser=bgpcoinrpc
+rpcuser=vrpayrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekmemektedir)
 Kullanıcı adı ve parola aynı OLMAMALIDIR.
 Dosya mevcut değilse, dosyayı sadece-kullanıcı-okuyabilir dosya izniyle yaratınız.
 alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildirilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;BGPCoin Uyarısı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;VRPay Uyarısı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,12 +3130,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BGPCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  VRPay is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>BGPCoin</source>
+        <source>VRPay</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3170,12 +3170,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BGPCoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of VRPay</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BGPCoin to complete</source>
+        <source>Wallet needed to be rewritten: restart VRPay to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3245,7 +3245,7 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BGPCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. VRPay is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BGPCoin</source>
-        <translation>Sobre BGPCoin</translation>
+        <source>About VRPay</source>
+        <translation>Sobre VRPay</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BGPCoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;BGPCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;VRPay&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;VRPay&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BGPCoin developers</source>
+Copyright © 2014 The VRPay developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BGPCoin developers</translation>
+Copyright © 2014 The VRPay developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BGPCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de BGPCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your VRPay addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de VRPay per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BGPCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça BGPCoin</translation>
+        <source>Sign a message to prove you own a VRPay address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça VRPay</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BGPCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça BGPCoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified VRPay address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça VRPay especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>BGPCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BGPCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>VRPay will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>VRPay tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BGPCoin</source>
-        <translation>Mostra informació sobre BGPCoin</translation>
+        <source>Show information about VRPay</source>
+        <translation>Mostra informació sobre VRPay</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BGPCoin address</source>
-        <translation>Enviar monedes a una adreça BGPCoin</translation>
+        <source>Send coins to a VRPay address</source>
+        <translation>Enviar monedes a una adreça VRPay</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BGPCoin</source>
-        <translation>Modificar les opcions de configuració per a BGPCoin</translation>
+        <source>Modify configuration options for VRPay</source>
+        <translation>Modificar les opcions de configuració per a VRPay</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>BGPCoin</source>
-        <translation>BGPCoin</translation>
+        <source>VRPay</source>
+        <translation>VRPay</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BGPCoin</source>
-        <translation>&amp;Sobre BGPCoin</translation>
+        <source>&amp;About VRPay</source>
+        <translation>&amp;Sobre VRPay</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BGPCoin client</source>
-        <translation>Client BGPCoin</translation>
+        <source>VRPay client</source>
+        <translation>Client VRPay</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BGPCoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa BGPCoin</numerusform><numerusform>%n conexions actives a la xarxa BGPCoin</numerusform></translation>
+        <source>%n active connection(s) to VRPay network</source>
+        <translation><numerusform>%n conexió activa a la xarxa VRPay</numerusform><numerusform>%n conexions actives a la xarxa VRPay</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -650,8 +650,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BGPCoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça BGPCoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid VRPay address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça VRPay no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -710,8 +710,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BGPCoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. BGPCoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. VRPay can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. VRPay ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1044,8 +1044,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BGPCoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça BGPCoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid VRPay address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça VRPay vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,8 +1063,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BGPCoin-Qt</source>
-        <translation>BGPCoin-Qt</translation>
+        <source>VRPay-Qt</source>
+        <translation>VRPay-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1136,13 +1136,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BGPCoin after logging in to the system.</source>
-        <translation>Inicia automàticament BGPCoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start VRPay after logging in to the system.</source>
+        <translation>Inicia automàticament VRPay després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BGPCoin on system login</source>
-        <translation>&amp;Iniciar BGPCoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start VRPay on system login</source>
+        <translation>&amp;Iniciar VRPay amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1161,8 +1161,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BGPCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client BGPCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the VRPay client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client VRPay en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BGPCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa BGPCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the VRPay network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa VRPay través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1246,8 +1246,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BGPCoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar BGPCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting VRPay.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar VRPay.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1261,8 +1261,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BGPCoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar BGPCoin adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show VRPay addresses in the transaction list or not.</source>
+        <translation>Per mostrar VRPay adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1308,8 +1308,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BGPCoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar BGPCoin.</translation>
+        <source>This setting will take effect after restarting VRPay.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar VRPay.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1327,8 +1327,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BGPCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa BGPCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the VRPay network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa VRPay després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1543,8 +1543,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BGPCoin-Qt help message to get a list with possible BGPCoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de BGPCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres BGPCoin.</translation>
+        <source>Show the VRPay-Qt help message to get a list with possible VRPay command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de VRPay-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres VRPay.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,13 +1563,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>BGPCoin - Debug window</source>
-        <translation>BGPCoin - Finestra Depuració</translation>
+        <source>VRPay - Debug window</source>
+        <translation>VRPay - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BGPCoin Core</source>
-        <translation>Nucli BGPCoin</translation>
+        <source>VRPay Core</source>
+        <translation>Nucli VRPay</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1578,8 +1578,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BGPCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració BGPCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the VRPay debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració VRPay des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BGPCoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de BGPCoin.</translation>
+        <source>Welcome to the VRPay RPC console.</source>
+        <translation>Benvingut a la consola RPC de VRPay.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1747,8 +1747,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BGPCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça BGPCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a VRPay address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça VRPay (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,8 +1847,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BGPCoin address</source>
-        <translation>ADVERTÈNCIA: Direcció BGPCoin invàlida</translation>
+        <source>WARNING: Invalid VRPay address</source>
+        <translation>ADVERTÈNCIA: Direcció VRPay invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1921,8 +1921,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BGPCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça BGPCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a VRPay address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça VRPay (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1982,8 +1982,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BGPCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça BGPCoin</translation>
+        <source>Sign the message to prove you own this VRPay address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça VRPay</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,8 +2014,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BGPCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça BGPCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified VRPay address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça VRPay especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BGPCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça BGPCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a VRPay address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça VRPay (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BGPCoin signature</source>
-        <translation>Introduïu la signatura BGPCoin</translation>
+        <source>Enter VRPay signature</source>
+        <translation>Introduïu la signatura VRPay</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2606,8 +2606,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BGPCoin version</source>
-        <translation>versió BGPCoin</translation>
+        <source>VRPay version</source>
+        <translation>versió VRPay</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bgpcoind</source>
-        <translation>Enviar comandes a -server o bgpcoind</translation>
+        <source>Send command to -server or vrpayd</source>
+        <translation>Enviar comandes a -server o vrpayd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bgpcoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: bgpcoin.conf)</translation>
+        <source>Specify configuration file (default: vrpay.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: vrpay.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bgpcoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: bgpcoind.pid)</translation>
+        <source>Specify pid file (default: vrpayd.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: vrpayd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2791,8 +2791,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BGPCoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni BGPCoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong VRPay will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni VRPay no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2981,24 +2981,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bgpcoinrpc
+rpcuser=vrpayrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BGPCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;VRPay Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=bgpcoinrpc
+rpcuser=vrpayrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;BGPCoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;VRPay Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,13 +3124,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BGPCoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. BGPCoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  VRPay is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. VRPay probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>BGPCoin</source>
-        <translation>BGPCoin</translation>
+        <source>VRPay</source>
+        <translation>VRPay</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3164,13 +3164,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BGPCoin</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de BGPCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of VRPay</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de VRPay</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BGPCoin to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar BGPCoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart VRPay to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar VRPay per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3239,8 +3239,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BGPCoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. BGPCoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. VRPay is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. VRPay probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BGPCoin</source>
-        <translation>О BGPCoin-u</translation>
+        <source>About VRPay</source>
+        <translation>О VRPay-u</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BGPCoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;VRPay&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The BGPCoin developers</source>
+Copyright © 2014 The VRPay developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -58,7 +58,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your BGPCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your VRPay addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -73,7 +73,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BGPCoin address</source>
+        <source>Sign a message to prove you own a VRPay address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -88,7 +88,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified BGPCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified VRPay address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -256,7 +256,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>BGPCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>VRPay will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BGPCoin</source>
+        <source>Show information about VRPay</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -420,12 +420,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a BGPCoin address</source>
+        <source>Send coins to a VRPay address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for BGPCoin</source>
+        <source>Modify configuration options for VRPay</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -465,7 +465,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>BGPCoin</source>
+        <source>VRPay</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -475,7 +475,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About BGPCoin</source>
+        <source>&amp;About VRPay</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -532,12 +532,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>BGPCoin client</source>
+        <source>VRPay client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BGPCoin network</source>
+        <source>%n active connection(s) to VRPay network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -648,7 +648,7 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BGPCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid VRPay address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -708,7 +708,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. BGPCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. VRPay can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1028,7 +1028,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BGPCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid VRPay address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1047,7 +1047,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>BGPCoin-Qt</source>
+        <source>VRPay-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1120,12 +1120,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BGPCoin after logging in to the system.</source>
+        <source>Automatically start VRPay after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BGPCoin on system login</source>
+        <source>&amp;Start VRPay on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1145,7 +1145,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BGPCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the VRPay client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1155,7 +1155,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BGPCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the VRPay network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1230,7 +1230,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BGPCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting VRPay.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1245,7 +1245,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BGPCoin addresses in the transaction list or not.</source>
+        <source>Whether to show VRPay addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1292,7 +1292,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BGPCoin.</source>
+        <source>This setting will take effect after restarting VRPay.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1311,7 +1311,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BGPCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the VRPay network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1527,7 +1527,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BGPCoin-Qt help message to get a list with possible BGPCoin command-line options.</source>
+        <source>Show the VRPay-Qt help message to get a list with possible VRPay command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1547,12 +1547,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BGPCoin - Debug window</source>
+        <source>VRPay - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>BGPCoin Core</source>
+        <source>VRPay Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1562,7 +1562,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BGPCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the VRPay debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1572,7 +1572,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the BGPCoin RPC console.</source>
+        <source>Welcome to the VRPay RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1731,7 +1731,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BGPCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a VRPay address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1831,7 +1831,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid BGPCoin address</source>
+        <source>WARNING: Invalid VRPay address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BGPCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a VRPay address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1966,7 +1966,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BGPCoin address</source>
+        <source>Sign the message to prove you own this VRPay address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1998,7 +1998,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BGPCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified VRPay address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2009,7 +2009,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BGPCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a VRPay address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2019,7 +2019,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BGPCoin signature</source>
+        <source>Enter VRPay signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2590,7 +2590,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>BGPCoin version</source>
+        <source>VRPay version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2600,7 +2600,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bgpcoind</source>
+        <source>Send command to -server or vrpayd</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2620,12 +2620,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bgpcoin.conf)</source>
+        <source>Specify configuration file (default: vrpay.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bgpcoind.pid)</source>
+        <source>Specify pid file (default: vrpayd.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2776,7 +2776,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BGPCoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong VRPay will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2965,13 +2965,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bgpcoinrpc
+rpcuser=vrpayrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BGPCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;VRPay Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3097,12 +3097,12 @@ for example: alertnotify=echo %%s | mail -s &quot;BGPCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  BGPCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  VRPay is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>BGPCoin</source>
+        <source>VRPay</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3137,12 +3137,12 @@ for example: alertnotify=echo %%s | mail -s &quot;BGPCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BGPCoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of VRPay</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BGPCoin to complete</source>
+        <source>Wallet needed to be rewritten: restart VRPay to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3212,7 +3212,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BGPCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. BGPCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. VRPay is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
