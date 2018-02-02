@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define BGPCoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "BGPCoinURI"
+// Define VRPay-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "VRPayURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

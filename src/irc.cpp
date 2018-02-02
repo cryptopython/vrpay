@@ -189,7 +189,7 @@ bool GetIPFromIRC(SOCKET hSocket, string strMyName, CNetAddr& ipRet)
 void ThreadIRCSeed(void* parg)
 {
     // Make this thread recognisable as the IRC seeding thread
-    RenameThread("bgpcoin-ircseed");
+    RenameThread("vrpay-ircseed");
 
     try
     {
@@ -302,16 +302,16 @@ void ThreadIRCSeed2(void* parg)
         }
 
         if (fTestNet) {
-            Send(hSocket, "JOIN #bgpcoinTEST\r");
-            Send(hSocket, "WHO #bgpcoinTEST\r");
+            Send(hSocket, "JOIN #vrpayTEST\r");
+            Send(hSocket, "WHO #vrpayTEST\r");
         } else {
-            // randomly join #bgpcoin00-#bgpcoin05
+            // randomly join #vrpay00-#vrpay05
             int channel_number = GetRandInt(5);
 
             // Channel number is always 0 for initial release
             //int channel_number = 0;
-            Send(hSocket, strprintf("JOIN #bgpcoin%02d\r", channel_number).c_str());
-            Send(hSocket, strprintf("WHO #bgpcoin%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("JOIN #vrpay%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("WHO #vrpay%02d\r", channel_number).c_str());
         }
 
         int64_t nStart = GetTime();

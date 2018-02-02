@@ -82,7 +82,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
     // NovaCoin: check prefix
-    if(uri.scheme() != QString("bgpcoin"))
+    if(uri.scheme() != QString("vrpay"))
         return false;
 
     SendCoinsRecipient rv;
@@ -127,13 +127,13 @@ bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 
 bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 {
-    // Convert bgpcoin:// to bgpcoin:
+    // Convert vrpay:// to vrpay:
     //
     //    Cannot handle this later, because bitcoin:// will cause Qt to see the part after // as host,
     //    which will lower-case it (and thus invalidate the address).
-    if(uri.startsWith("bgpcoin://"))
+    if(uri.startsWith("vrpay://"))
     {
-        uri.replace(0, 12, "bgpcoin:");
+        uri.replace(0, 12, "vrpay:");
     }
     QUrl uriInstance(uri);
     return parseBitcoinURI(uriInstance, out);
@@ -277,7 +277,7 @@ bool ToolTipToRichTextFilter::eventFilter(QObject *obj, QEvent *evt)
 #ifdef WIN32
 boost::filesystem::path static StartupShortcutPath()
 {
-    return GetSpecialFolderPath(CSIDL_STARTUP) / "BGPCoin.lnk";
+    return GetSpecialFolderPath(CSIDL_STARTUP) / "VRPay.lnk";
 }
 
 bool GetStartOnSystemStartup()
@@ -359,7 +359,7 @@ boost::filesystem::path static GetAutostartDir()
 
 boost::filesystem::path static GetAutostartFilePath()
 {
-    return GetAutostartDir() / "bgpcoin.desktop";
+    return GetAutostartDir() / "vrpay.desktop";
 }
 
 bool GetStartOnSystemStartup()
@@ -400,7 +400,7 @@ bool SetStartOnSystemStartup(bool fAutoStart)
         // Write a bitcoin.desktop file to the autostart directory:
         optionFile << "[Desktop Entry]\n";
         optionFile << "Type=Application\n";
-        optionFile << "Name=BGPCoin\n";
+        optionFile << "Name=VRPay\n";
         optionFile << "Exec=" << pszExePath << " -min\n";
         optionFile << "Terminal=false\n";
         optionFile << "Hidden=false\n";
@@ -421,10 +421,10 @@ bool SetStartOnSystemStartup(bool fAutoStart) { return false; }
 HelpMessageBox::HelpMessageBox(QWidget *parent) :
     QMessageBox(parent)
 {
-    header = tr("BGPCoin-Qt") + " " + tr("version") + " " +
+    header = tr("VRPay-Qt") + " " + tr("version") + " " +
         QString::fromStdString(FormatFullVersion()) + "\n\n" +
         tr("Usage:") + "\n" +
-        "  bgpcoin-qt [" + tr("command-line options") + "]                     " + "\n";
+        "  vrpay-qt [" + tr("command-line options") + "]                     " + "\n";
 
     coreOptions = QString::fromStdString(HelpMessage());
 
@@ -433,7 +433,7 @@ HelpMessageBox::HelpMessageBox(QWidget *parent) :
         "  -min                   " + tr("Start minimized") + "\n" +
         "  -splash                " + tr("Show splash screen on startup (default: 1)") + "\n";
 
-    setWindowTitle(tr("BGPCoin-Qt"));
+    setWindowTitle(tr("VRPay-Qt"));
     setTextFormat(Qt::PlainText);
     // setMinimumWidth is ignored for QMessageBox so put in non-breaking spaces to make it wider.
     setText(header + QString(QChar(0x2003)).repeated(50));
