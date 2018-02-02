@@ -52,7 +52,7 @@ Save the ```~/.vrpay/wallet.dat``` file as a backup
 6. Mine your coins using the official mining pool (recommended)
 
 ```
-minerd -o stratum+tcp://pool.vrpay.com:3008/ -u `vrpayd getaccountaddress 0` -p x
+minerd -o stratum+tcp://pool.vrpay.thoughtwave.com:3008/ -u `vrpayd getaccountaddress 0` -p x
 ```
 
 -or-
@@ -120,7 +120,7 @@ Save the ```~/.vrpay/wallet.dat``` file and you can load it with your QT wallet
 6. Mine your coins using the official mining pool (recommended)
 
 ```
-minerd -o stratum+tcp://pool.vrpay.com:3008/ -u `vrpayd getaccountaddress 0` -p x
+minerd -o stratum+tcp://pool.vrpay.thoughtwave.com:3008/ -u `vrpayd getaccountaddress 0` -p x
 ```
 
 -or-
