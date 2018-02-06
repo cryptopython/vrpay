@@ -60,14 +60,14 @@ minerd -o stratum+tcp://pool.vrpay.thoughtwave.com:3008/ -u `vrpayd getaccountad
 7. Mine your coins (On localhost using all threads)
 
 ```
-minerd -o http://127.0.0.1:32076 -u user -p x
+minerd -o http://127.0.0.1:31976 -u user -p x
 ```
 
 -or-
 
 8. Mine your coins (On localhost using one thread)
 ```
-minerd -t 1 -o http://127.0.0.1:32076 -u user -p x
+minerd -t 1 -o http://127.0.0.1:31976 -u user -p x
 ```
 
 Enjoy!
@@ -128,14 +128,14 @@ minerd -o stratum+tcp://pool.vrpay.thoughtwave.com:3008/ -u `vrpayd getaccountad
 7. Mine your coins (On localhost using all threads)
 
 ```
-minerd -o http://127.0.0.1:32076 -u user -p x
+minerd -o http://127.0.0.1:31976 -u user -p x
 ```
 
 -or-
 
 8. Mine your coins (On localhost using one thread)
 ```
-minerd -t 1 -o http://127.0.0.1:32076 -u user -p x
+minerd -t 1 -o http://127.0.0.1:31976 -u user -p x
 ```
 
 Enjoy it Mac style
